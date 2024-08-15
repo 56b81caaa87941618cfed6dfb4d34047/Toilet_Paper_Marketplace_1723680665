@@ -36,5 +36,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Should the entire app's background be changed to green, or are you referring to a specific section?\", \"option1\": \"Change the entire app's background to green.\", \"option2\": \"Change the background of a specific section only.\"}, {\"question 2\": \"Do you prefer a solid green color, or would you like to explore gradient options?\", \"option1\": \"Solid green color.\", \"option2\": \"Green gradient options.\"}], \"input_token_count\": 293, \"output_token_count\": 104, \"time_taken\": \"0:00:02.785870\"}",
         "timestamp": "15082024001557",
         "message_id": "guest15082024001553"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add color theme options for user customization\", \"checked\": true}, {\"feature\": \"Implement night mode for better viewing in low light\", \"checked\": false}, {\"feature\": \"Option to change font size and style for better readability\", \"checked\": false}, {\"feature\": \"Add an accessibility feature for color-blind users\", \"checked\": true}, {\"feature\": \"Implement a preview mode to see changes in real-time before applying\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 107, \"time_taken\": \"0:00:02.821922\"}",
+        "timestamp": "15082024001557",
+        "message_id": "guest15082024001553"
     }
 ]
