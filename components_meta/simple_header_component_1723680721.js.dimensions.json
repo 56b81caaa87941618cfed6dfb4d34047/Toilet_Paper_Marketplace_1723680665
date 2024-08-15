@@ -1,0 +1,18 @@
+{
+    "id": "simple_header_component-6209b163-1d09-4224-5b93-52bffc6b80f9",
+    "name": "simple_header_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 2,
+    "x": "100",
+    "y": "10",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
