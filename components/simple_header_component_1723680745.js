@@ -4,7 +4,7 @@
 Vue.component("simple_header_component_1723680745", {
     template: `
     <header id="header-section" class="w-full">
-        <nav id="nav-bar" class="bg-white border-gray-200 py-2.5 dark:bg-gray-900">
+        <nav id="nav-bar" class="bg-red-500 border-gray-200 py-2.5 dark:bg-gray-900">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
                     <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
