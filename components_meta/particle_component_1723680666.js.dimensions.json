@@ -1,0 +1,18 @@
+{
+    "component_name": "particle_component",
+    "id": "particle_component_1723680666.js",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 8,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
