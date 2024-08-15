@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll change the background color to green.",
+        "message_id": "guest15082024001553",
+        "timestamp": "15082024001553",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like a solid red background or a gradient involving red?\", \"option1\": \"Solid red\", \"option2\": \"Gradient involving red\"}, {\"question 2\": \"Are you looking for a specific shade of red, and if so, do you have a color code (e.g., #FF0000) in mind?\", \"option1\": \"Yes, I have a specific shade in mind with a color code.\", \"option2\": \"No specific shade, choose a standard red color.\"}], \"input_token_count\": 256, \"output_token_count\": 116, \"time_taken\": \"0:00:04.370085\"}",
         "message_id": "guest15082024001237",
