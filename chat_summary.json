@@ -24,5 +24,11 @@
         "content": "Alright, I'll change the background color to green.",
         "timestamp": "15082024001553",
         "message_id": "guest15082024001553"
+    },
+    {
+        "role": "user",
+        "content": "Change the background to be green",
+        "timestamp": "15082024001553",
+        "message_id": "guest15082024001553"
     }
 ]
